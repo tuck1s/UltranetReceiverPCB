@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card (PCB - Forward Design Changes Report).txt
+Report Written:     Friday, November 13, 2015
+Project Path:       T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.prj
+Design Path:        T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.pcb
+Design Title:       
+Created:            08/11/2015 19:47:54
+Last Saved:         09/11/2015 21:53:59
+Editing Time:       78 min
+Units:              thou (precision 2)
+
+Deleted component reference "J3".
+Deleted component reference "J2".
+Deleted component reference "J8".
+
+
+End Of Report.
