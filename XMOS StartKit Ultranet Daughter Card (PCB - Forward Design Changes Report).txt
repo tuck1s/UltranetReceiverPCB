@@ -1,18 +1,100 @@
 Forward Design Changes Report
 -----------------------------
 
-Report File:        T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card (PCB - Forward Design Changes Report).txt
+Report File:        \\vmware-host\Shared Folders\stuck On My Mac\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card (PCB - Forward Design Changes Report).txt
 Report Written:     Saturday, November 21, 2015
-Project Path:       T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.prj
-Design Path:        T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.pcb
+Project Path:       \\vmware-host\Shared Folders\stuck On My Mac\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.prj
+Design Path:        \\vmware-host\Shared Folders\stuck On My Mac\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.pcb
 Design Title:       
-Created:            08-Nov-15 7:47:54 PM
-Last Saved:         21-Nov-15 12:48:31 AM
-Editing Time:       258 min
+Created:            11/8/2015 7:47:54 PM
+Last Saved:         11/21/2015 12:51:45 AM
+Editing Time:       367 min
 Units:              thou (precision 2)
 
-Added component reference "IC1" of component "WM8804", package "DIL".
+Disconnected pin "J6-5" from net "GND".
+Disconnected pin "J1-3" from net "N0003!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Disconnected pin "R3-2" from net "N0003!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+
+Deleted component reference "R8".
+
+Deleted net "N0003!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+
+Changed value "Value" on component reference "C1" to "1uF".
+
+Added net "ChanA BCLK".
+Added net "ChanA LRCLK".
+Added net "ChanA DOUT".
+Added net "ChanB DOUT".
+Added net "N0088!XMOS StartKit Ultranet Daughter Card!".
+Added net "N0038!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Added net "N0042!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Added net "N0045!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Added net "Chan B in".
+Added net "N0055!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Added net "N0063!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+
+Added component reference "C1" of component "Capacritor_Pol", package "DSCV".
+Added component reference "C2" of component "Capacitor", package "0805".
+Added value "Value=100n" to component reference "C2".
+
 Added component reference "IC2" of component "WM8804", package "DIL".
+Added component reference "C10" of component "Capacitor", package "0805".
+Added value "Value=100n" to component reference "C10".
+
+Added component reference "R10" of component "Resistor", package "DSC".
+Changed value "Value" on component reference "R10" to "10K".
+Added component reference "R11" of component "Resistor", package "DSC".
+Changed value "Value" on component reference "R11" to "10K".
+Added component reference "R12" of component "Resistor", package "DSC".
+Changed value "Value" on component reference "R12" to "91R".
+Added component reference "R13" of component "Resistor", package "DSC".
+Changed value "Value" on component reference "R13" to "10R".
+
+Renamed component reference "C8" to "C8".
+
+Renamed component reference "C9" to "C9".
+
+
+Connected pin "J6-5" to net "N0088!XMOS StartKit Ultranet Daughter Card!".
+Connected pin "J7-1" to net "ChanA LRCLK".
+Connected pin "J7-2" to net "ChanA BCLK".
+Connected pin "J7-3" to net "ChanA DOUT".
+Connected pin "J7-4" to net "ChanB DOUT".
+Connected pin "C1-1" to net "VDD".
+Connected pin "C1-2" to net "N0088!XMOS StartKit Ultranet Daughter Card!".
+Connected pin "C2-1" to net "N0088!XMOS StartKit Ultranet Daughter Card!".
+Connected pin "C2-2" to net "VDD".
+Connected pin "J1-3" to net "GND".
+Connected pin "J1-4" to net "N0045!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "J1-5" to net "GND".
+Connected pin "R3-2" to net "GND".
+Connected pin "IC1-12" to net "ChanA DOUT".
+Connected pin "IC1-14" to net "ChanA BCLK".
+Connected pin "IC1-15" to net "ChanA LRCLK".
+Connected pin "IC1-16" to net "N0055!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "IC2-1" to net "GND".
+Connected pin "IC2-2" to net "GND".
+Connected pin "IC2-3" to net "GND".
+Connected pin "IC2-4" to net "N0063!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "IC2-5" to net "GND".
+Connected pin "IC2-6" to net "N0042!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "IC2-7" to net "VDD".
+Connected pin "IC2-8" to net "GND".
+Connected pin "IC2-12" to net "ChanB DOUT".
+Connected pin "IC2-16" to net "N0055!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "IC2-18" to net "GND".
+Connected pin "IC2-19" to net "VDD".
+Connected pin "IC2-20" to net "N0038!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "C10-1" to net "N0038!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "C10-2" to net "Chan B in".
+Connected pin "R10-1" to net "N0063!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "R10-2" to net "VDD".
+Connected pin "R11-1" to net "N0042!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "R11-2" to net "VDD".
+Connected pin "R12-1" to net "N0045!XMOS StartKit Ultranet Daughter Card Sheet 2!".
+Connected pin "R12-2" to net "Chan B in".
+Connected pin "R13-1" to net "Chan B in".
+Connected pin "R13-2" to net "GND".
 
 
 End Of Report.

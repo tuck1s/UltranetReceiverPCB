@@ -1,14 +1,14 @@
 Schematic and PCB Check Report
 ------------------------------
 
-Report File:        T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card (PCB - Schematic and PCB Check Report).txt
+Report File:        \\vmware-host\Shared Folders\stuck On My Mac\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card (PCB - Schematic and PCB Check Report).txt
 Report Written:     Saturday, November 21, 2015
-Project Path:       T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.prj
-Design Path:        T:\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.pcb
+Project Path:       \\vmware-host\Shared Folders\stuck On My Mac\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.prj
+Design Path:        \\vmware-host\Shared Folders\stuck On My Mac\Google Drive\XMOS recorder\UltranetReceiverPCB\XMOS StartKit Ultranet Daughter Card.pcb
 Design Title:       
-Created:            08-Nov-15 7:47:54 PM
-Last Saved:         21-Nov-15 12:48:31 AM
-Editing Time:       258 min
+Created:            11/8/2015 7:47:54 PM
+Last Saved:         11/21/2015 12:51:45 AM
+Editing Time:       367 min
 Units:              thou (precision 2)
 
 
